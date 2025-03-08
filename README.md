@@ -22,7 +22,10 @@ Enthusiastic iOS Developer with 2 year of experience in native app development u
 
 ## [Ecademictube: study partner and ecademaictube: task](https://apps.apple.com/us/app/appideasapp/id6476480047)
 
-Developed a E-learning chat application includes socket for real-time communication.
+Ecademictube is an innovative e-learning chat application designed to enhance online education by integrating real-time communication and task management features.
+
+Study Partner: Facilitates seamless collaboration between students, allowing them to discuss topics, share resources, and engage in interactive learning.
+Task Module: Enables users to manage assignments, set deadlines, and track progress efficiently.
 
 **Tech Used**
 - 💿 Realm
@@ -31,15 +34,19 @@ Developed a E-learning chat application includes socket for real-time communicat
 - 🎁 Push notificaiton
 - 💰 Stripe Pay, Razor Pay
 
-Tech Stack: Swift, CoreML, Vision, ARKitAn AI-driven app identifying objects in real-time.
+## [Fairpick](https://apps.apple.com/us/app/appideasapp/id6476480047)
 
-🤖 CoreML for image recognition.
+Ecademictube is an innovative e-learning chat application designed to enhance online education by integrating real-time communication and task management features.
 
-🕶️ ARKit for real-world interaction.
+Study Partner: Facilitates seamless collaboration between students, allowing them to discuss topics, share resources, and engage in interactive learning.
+Task Module: Enables users to manage assignments, set deadlines, and track progress efficiently.
 
-⚡ Offline model inference.
-
-💼 Work Experience
+**Tech Used**
+- 💿 Realm
+- 🎨 SocketIO
+- 🏦 App Storage
+- 🎁 Push notificaiton
+- 💰 Stripe Pay, Razor Pay
 
 🏢 iOS Developer – XYZ Tech (2021 - Present)
 
